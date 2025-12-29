@@ -1,5 +1,4 @@
 # cybersecurity_montgomerycollege_labs
-Labs completed throughout the semesters at Montgomery College
 
 This repository contains the labs I completed for the Cybersecurity Associate Degree at Montgomery College.
 

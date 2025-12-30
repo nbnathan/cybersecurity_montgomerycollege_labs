@@ -1,0 +1,29 @@
+Lab1: Hashcat – Perform Straight Attack
+Instructor: Prof. David Vargas
+
+This lab was completed as part of the Cybersecurity Associate Degree at Montgomery College and reflects hands-on experience with offline password cracking techniques commonly used in security assessments and incident response contexts.
+
+Lab Objective
+-	Execute a straight (dictionary) attack using Hashcat
+-	Identify and apply the correct hash mode for MD5
+-	Evaluate the effectiveness of dictionary-based attacks against unsalted hashes
+
+What I Practiced
+-	Configured and executed Hashcat in straight attack mode (-a 0)
+-	Analyzed target hashes and selected the appropriate hash type (-m 0, MD5)
+-	Leveraged the rockyou.txt wordlist to recover weak credentials
+-	Interpreted Hashcat execution output, including recovery rates and attack status
+-	Validated cracked credentials via output files and potfile lookup using --show
+
+Tools Used
+-	Hashcat
+-	Kali Linux
+-	VirtualBox
+-	Terminal (bash)
+
+Outcome
+- Successfully recovered 7 out of 13 password hashes using a dictionary attack
+- Confirmed results through Hashcat output and potfile verification
+
+
+This lab is documented as part of my academic training and practical skill development in cybersecurity, with emphasis on real-world tooling, command-line proficiency, and result validation.

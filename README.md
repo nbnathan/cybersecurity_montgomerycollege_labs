@@ -25,6 +25,7 @@ This repository contains the labs I completed for the Cybersecurity Associate De
 Each lab documents practical work and ongoing skill development.
 
 Lab 1 - Hashcat - Perform Straight Attack - Prof. David Vargas 
+
 Lab 2 - Hashcat	-	Perform	Combination	Attack - Prof. David Vargas 
 
 

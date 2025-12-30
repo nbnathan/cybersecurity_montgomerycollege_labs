@@ -24,7 +24,8 @@ Scripting (Python basics; PowerShell basics)
 This repository contains the labs I completed for the Cybersecurity Associate Degree at Montgomery College. I learned from multiple instructors and completed hands‑on exercises across security monitoring, incident response, networking, cloud, and digital forensics.
 Each lab documents practical work and ongoing skill development.
 
-Lab 1 - Hashcat	-	Perform	Combination	Attack	
+Lab 1 - Hashcat - Perform Straight Attack - Prof. David Vargas 
+Lab 2 - Hashcat	-	Perform	Combination	Attack - Prof. David Vargas 
 
 
 

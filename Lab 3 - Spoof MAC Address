@@ -1,0 +1,39 @@
+Lab: Linux – Spoof MAC Address
+Instructor: Prof. David Vargas
+
+This lab was completed as part of the Cybersecurity Associate Degree at Montgomery College and reflects hands-on experience with Linux network interface manipulation and identity obfuscation techniques relevant to security assessments, privacy, and adversarial behavior analysis.
+
+Lab Objective
+-	Identify the MAC address of a network interface using modern Linux networking tools
+-	Modify (spoof) a MAC address via the command-line interface
+-	Validate MAC address changes and understand operational limitations
+
+What I Practiced
+-	Used the ip command from the iproute2 suite to manage network interfaces
+-	Identified active network interfaces and their associated MAC addresses
+-	Disabled and re-enabled a network interface to apply configuration changes
+-	Spoofed a MAC address at the operating system level using CLI commands
+-	Verified successful MAC address changes through interface inspection
+-	Restored the network interface to its original MAC address
+
+Tools Used
+- VirtualBox
+- Kali Linux
+- Terminal
+- iproute2 (ip command)
+
+
+Outcome
+- Successfully spoofed the MAC address of a Linux Ethernet interface
+- Verified the MAC address change using ip link show
+- Demonstrated understanding of MAC-based tracking, access control evasion, and operational constraints (e.g., port security)
+
+Evidence
+
+
+
+This lab is documented as part of my academic training and practical skill development in cybersecurity, with emphasis on real-world tooling, command-line proficiency, and result validation.
+
+
+
+
